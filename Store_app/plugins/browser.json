@@ -1,0 +1,64 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-nativeaudio": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-printer": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.grocery5.store"
+    }
+  }
+}

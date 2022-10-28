@@ -1,0 +1,19 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-advanced-http": {
+            "OKHTTP_VERSION": "3.10.0",
+            "PACKAGE_NAME": "io.grocery5.store"
+        },
+        "cordova-plugin-android-permissions": {
+            "PACKAGE_NAME": "io.grocery5.store"
+        }
+    },
+    "dependent_plugins": {}
+}
